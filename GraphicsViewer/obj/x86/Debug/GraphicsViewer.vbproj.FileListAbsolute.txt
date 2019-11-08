@@ -1,0 +1,9 @@
+C:\Users\yagi_yo\Documents\GitHub\GraphicsViewer\GraphicsViewer\bin\Debug\GraphicsViewer.exe
+C:\Users\yagi_yo\Documents\GitHub\GraphicsViewer\GraphicsViewer\bin\Debug\GraphicsViewer.pdb
+C:\Users\yagi_yo\Documents\GitHub\GraphicsViewer\GraphicsViewer\bin\Debug\GraphicsViewer.xml
+C:\Users\yagi_yo\Documents\GitHub\GraphicsViewer\GraphicsViewer\obj\x86\Debug\GraphicsViewer.Form1.resources
+C:\Users\yagi_yo\Documents\GitHub\GraphicsViewer\GraphicsViewer\obj\x86\Debug\GraphicsViewer.Resources.resources
+C:\Users\yagi_yo\Documents\GitHub\GraphicsViewer\GraphicsViewer\obj\x86\Debug\GraphicsViewer.vbproj.GenerateResource.Cache
+C:\Users\yagi_yo\Documents\GitHub\GraphicsViewer\GraphicsViewer\obj\x86\Debug\GraphicsViewer.exe
+C:\Users\yagi_yo\Documents\GitHub\GraphicsViewer\GraphicsViewer\obj\x86\Debug\GraphicsViewer.xml
+C:\Users\yagi_yo\Documents\GitHub\GraphicsViewer\GraphicsViewer\obj\x86\Debug\GraphicsViewer.pdb
